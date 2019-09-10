@@ -12,12 +12,10 @@ Tanveer wuz here.
 
 RJ was here.
 
-<<<<<<< HEAD
 Drew wuz here.
 
 Do you get how fetch works yet?
 
 TechLead
-=======
+
 Drew is better.
->>>>>>> drew
