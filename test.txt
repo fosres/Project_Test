@@ -19,3 +19,5 @@ Do you get how fetch works yet?
 TechLead
 
 Drew is better.
+
+I don't get it.
